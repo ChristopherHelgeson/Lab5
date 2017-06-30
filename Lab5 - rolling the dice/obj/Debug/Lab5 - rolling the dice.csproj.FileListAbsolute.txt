@@ -1,0 +1,6 @@
+c:\users\chris\documents\visual studio 2015\Projects\Lab5 - rolling the dice\Lab5 - rolling the dice\bin\Debug\Lab5 - rolling the dice.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\Lab5 - rolling the dice\Lab5 - rolling the dice\bin\Debug\Lab5 - rolling the dice.exe
+c:\users\chris\documents\visual studio 2015\Projects\Lab5 - rolling the dice\Lab5 - rolling the dice\bin\Debug\Lab5 - rolling the dice.pdb
+c:\users\chris\documents\visual studio 2015\Projects\Lab5 - rolling the dice\Lab5 - rolling the dice\obj\Debug\Lab5 - rolling the dice.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\Lab5 - rolling the dice\Lab5 - rolling the dice\obj\Debug\Lab5 - rolling the dice.exe
+c:\users\chris\documents\visual studio 2015\Projects\Lab5 - rolling the dice\Lab5 - rolling the dice\obj\Debug\Lab5 - rolling the dice.pdb
