@@ -10,6 +10,7 @@ namespace Lab5___rolling_the_dice
     {
         static void Main(string[] args)
         {
+            Random rng = new Random();
             int dieSides = 0;
 
             Console.Write("Welcome to the Grand Circus Casino!\n\nRoll the dice? (y/n): ");
@@ -23,7 +24,7 @@ namespace Lab5___rolling_the_dice
                 string sameDiceAgain = "y";
                 while (sameDiceAgain == "y" || sameDiceAgain == "Y")
                 {
-                    RollDice(dieSides);
+                    RollDice(rng, dieSides);
 
                     Console.Write("Roll same dice again? (y/n): ");
                     sameDiceAgain = Console.ReadLine();
@@ -46,9 +47,9 @@ namespace Lab5___rolling_the_dice
 
         }
 
-        public static void RollDice(int sides)
+        public static void RollDice(Random rng, int sides)
         {
-            Random rng = new Random();
+            //Random rng = new Random();
 
             int dieOne = rng.Next(1, sides + 1);
             Console.WriteLine("\nDie one came up: " + dieOne);
